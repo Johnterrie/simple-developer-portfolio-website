@@ -1,6 +1,8 @@
 import React from "react";
 import userData from "@constants/data";
 
+
+// about component
 export default function AboutMe() {
   return (
     <section className="bg-white dark:bg-gray-800">
